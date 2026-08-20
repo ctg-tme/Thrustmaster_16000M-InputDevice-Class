@@ -9,7 +9,7 @@ For a complete implementation, see the [Joystick Camera Control Production Switc
 ## Requirements
 
 - A Cisco collaboration device running RoomOS with support for the InputDevice Joystick API
-- A Thrustmaster T.16000M USB joystick connected to the device
+- A [Thrustmaster T.16000M USB joystick](https://support.thrustmaster.com/en/product/t16000mfcs-en/) connected to the device
 - RoomOS macro access
 
 ## Install
@@ -126,4 +126,4 @@ Only one callback is stored for each logical input. Registering the same button 
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [Cisco Sample Code License](./LICENSE).
