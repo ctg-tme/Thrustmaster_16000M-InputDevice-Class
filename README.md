@@ -2,7 +2,7 @@
 
 A small JavaScript class for using a Thrustmaster T.16000M joystick in Cisco RoomOS macros. It translates RoomOS joystick events into stable, readable button and axis names and remaps the base buttons for the joystick's left- or right-handed hardware setting.
 
-For a complete implementation, see the [Joystick Camera Control Production Switcher](https://ctg-tme.github.io/Joystick_CameraControl_ProducionSwitcher_using_Thrustmaster_16000M/). It uses this class to select cameras and control pan, tilt, and zoom from a T.16000M.
+For a complete implementation, see the [Joystick Camera Control Production Switcher](https://ctg-tme.github.io/Joystick_CameraControl_ProductionSwitcher_using_Thrustmaster_16000M/). It uses this class to select cameras and control pan, tilt, and zoom from a T.16000M.
 
 ![Thrustmaster T.16000M control reference](./thrustmaster16000m-reference.png)
 
@@ -122,7 +122,7 @@ Only one callback is stored for each logical input. Registering the same button 
 
 - [Developer reference](./thrustmaster16000m-developer-reference.html)
 - [Camera operator guide](./ic26_thrustmaster16000m-operators-camera-guide.html)
-- [Example project source](https://github.com/ctg-tme/Joystick_CameraControl_ProducionSwitcher_using_Thrustmaster_16000M)
+- [Example project source](https://github.com/ctg-tme/Joystick_CameraControl_ProductionSwitcher_using_Thrustmaster_16000M)
 
 ## License
 
